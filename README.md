@@ -1,5 +1,3 @@
-# kpmg_data_analysis_virtual_experience_program
-The KPMG Data Analytics Virtual Experience is a program designed to help interested people gain a practical insight into the work done at KPMG and build their career skills and experience.
-I started this program in early 2021 as an introduction to Data Analytics. I'd always been interested in that space, but I had no time and opportunity to explore my interests, but fortunately this internship provided that chance.
-I completed the internship somewhat late (I overestimated my abilities and underestimated the difficulty of the program), but I enjoyed every task. 
-Uploading to GitHub is a way to document my progress and keep the potential to revisit my work later. If anyone finds this, I hope it's useful to them.
+# deloitte_technology_consulting_virtual_experience_program
+The Deloitte Technology Consulting Virtual Internship was probably the hardest program I've done so far, but it was also the most exciting. 
+I picked this program because of "name-power", signalling in effect. I had no idea what I signed up for. The actual experience has 3 modules: Technology Strategy and Innovation, Optimisation and Delivery, and Cloud Engineering. Each of these modules had three tasks, and each task was wayyy out of my comfort zone. I like to think I did admirably though.
